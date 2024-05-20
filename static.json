@@ -18,7 +18,7 @@
       },
         "transfer": {
           "collection_id": "8a8093ce-16cc-11ef-8b35-993129235be9",
-          "path": "/portal/catalog/"
+          "path": "YUL_data_test/portal/catalog/"
         }
       }
     }
